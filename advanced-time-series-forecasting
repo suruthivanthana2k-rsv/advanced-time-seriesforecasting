@@ -1,0 +1,29 @@
+advanced-time-series-forecasting/
+│
+├── README.md
+├── requirements.txt
+│
+├── data/
+│   └── generate_dataset.py
+│
+├── models/
+│   ├── lstm_model.py
+│   ├── transformer_model.py
+│   └── baseline_models.py
+│
+├── training/
+│   ├── train.py
+│   └── optimize.py
+│
+├── explain/
+│   ├── shap_explain.py
+│   └── integrated_gradients.py
+│
+├── utils/
+│   ├── metrics.py
+│   └── dataloader.py
+│
+├── main.py
+│
+└── report/
+    └── project_report.md 
