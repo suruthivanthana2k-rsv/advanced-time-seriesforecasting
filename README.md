@@ -16,3 +16,10 @@ Prophet) is also included.
 ## Running the project
 
 ### 1. Generate dataset
+### 2. Train model
+### 3. Run explainability
+### 4. Compare with SARIMAX
+### 5. Full pipeline
+## Folder Structure
+See documentation in report/project_report.md.
+
